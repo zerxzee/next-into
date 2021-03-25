@@ -1,0 +1,39 @@
+{
+  "pocas": [
+    {
+      "id": 2,
+      "text": "CHUNGHA 2",
+      "price": 380
+    },
+    {
+      "id": 3,
+      "text": "CHUNGHA 3",
+      "price": 380
+    },
+    {
+      "text": "CHUNGHA 4",
+      "price": "280",
+      "id": 4
+    },
+    {
+      "text": "CHUNGHA 5",
+      "price": "1000",
+      "id": 5
+    },
+    {
+      "text": "CHUNGHA 6",
+      "price": "750",
+      "id": 6
+    },
+    {
+      "text": "CHUNGHA 1",
+      "price": "280",
+      "id": 7
+    },
+    {
+      "text": "CHUNGHA 7",
+      "price": "105",
+      "id": 8
+    }
+  ]
+}
